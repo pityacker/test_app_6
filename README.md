@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...ß
 
-Testing a change on git
+Test repo
